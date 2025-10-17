@@ -4,7 +4,7 @@ MedEduChat is a GPT-4o agent, which integrates with Mayo Clinic’s electronic h
 <p align="center">
   <img src="MedEduChat_Features.png" alt="System Overview" width="600"/>
   <br>
-  <em>Figure 1. MedEduChat workflow integrating GPT-4o with clinical data sources.</em>
+  <em>Figure 1. Four MedEduChat Main Figures.</em>
 </p>
 
 This repository contains:
