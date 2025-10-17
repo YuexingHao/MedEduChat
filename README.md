@@ -1,6 +1,12 @@
 # MedEduChat
 MedEduChat is a GPT-4o agent, which integrates with Mayo Clinic’s electronic health records (EHR) system to retrieve information from diverse data sources such as radiotherapy plans, clinical notes, radiology, and pathology reports.
 
+<p align="center">
+  <img src="MedEduChat_Features.png" alt="System Overview" width="600"/>
+  <br>
+  <em>Figure 1. MedEduChat workflow integrating GPT-4o with clinical data sources.</em>
+</p>
+
 This repository contains:
 
 - Prompt configurations defining MedEduChat’s role, scope, and function-calling protocols for structured clinical data retrieval.
